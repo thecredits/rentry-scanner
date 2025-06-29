@@ -5,7 +5,7 @@ Finds existing content on rentry.co by testing random URLs. Opens interesting pa
 ## Setup & Run
 
 ```bash
-pip install requests>=2.25.0 
+pip install requests
 python3 rentry_explorer.py
 ```
 
